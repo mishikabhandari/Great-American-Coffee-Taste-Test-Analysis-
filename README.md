@@ -348,13 +348,15 @@ Highlighted spending behaviors and customer segments with high value potential.
 ### ☕ Power BI Executive Dashboard
 
 <br>
+<h1>👥 Demographic Analysis</h1>
+<img src="Front.png" width="100%"/>
+<h1>☕ Consumer Preferences Analysis</h1>
+<img src="Middle.png" width="100%"/>
+<h1>💰 Spending & Purchasing Analysis</h1>
+<img src="End.png" width="100%"/>
 
-<img src="https://via.placeholder.com/1200x650/1A0F0A/E8D5B7?text=POWER+BI+DASHBOARD+PREVIEW" width="100%"/>
 
 <br><br>
-
-> Replace the image above with your dashboard screenshot
-
 </div>
 
 ---
